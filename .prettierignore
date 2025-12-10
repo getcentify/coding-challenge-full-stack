@@ -1,0 +1,24 @@
+# unconventional js
+/blueprints/*/files/
+/vendor/
+
+# compiled output
+/dist/
+/tmp/
+
+# dependencies
+/bower_components/
+/node_modules/
+
+# misc
+/coverage/
+!.*
+.eslintcache
+
+**/coverage
+
+**/node_modules
+**/dist
+**/build
+**/public
+**/prisma/generated
